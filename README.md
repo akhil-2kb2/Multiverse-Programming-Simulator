@@ -1,6 +1,6 @@
 # Multiverse-Programming-Simulator
 
-# 🌌 Multiverse Programming Simulator
+#  Multiverse Programming Simulator
 
 An interactive C-based console application that simulates a futuristic mission control system using core programming concepts.
 
@@ -8,7 +8,7 @@ This project demonstrates structured programming, loops, conditionals, arrays, a
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 🔹 Power Evaluation Chamber
 - Accepts power levels of 5 Mystic Subjects
@@ -28,12 +28,12 @@ This project demonstrates structured programming, loops, conditionals, arrays, a
 ### 🔹 Mission Console (Interactive Menu)
 Includes:
 
-1. 🔁 Time Mirror Test (Palindrome)
-2. ⚡ Energy Stability Check (Prime Number)
-3. 🔥 Power Amplification (Armstrong Number)
-4. 🧮 Quantum Growth (Factorial)
-5. 🌊 Mystic Resonance (Fibonacci Series)
-6. 🌑 Dark Energy Detector (Neon Number)
+1.  Time Mirror Test (Palindrome)
+2.  Energy Stability Check (Prime Number)
+3.  Power Amplification (Armstrong Number)
+4.  Quantum Growth (Factorial)
+5.  Mystic Resonance (Fibonacci Series)
+6.  Dark Energy Detector (Neon Number)
 
 ✔ Tracks total missions completed  
 ✔ Allows mission extension  
@@ -41,7 +41,7 @@ Includes:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - C Programming Language
 - Standard I/O Library (`stdio.h`)
@@ -49,7 +49,7 @@ Includes:
 
 ---
 
-## 🎯 Concepts Covered
+##  Concepts Covered
 
 - Variables & Data Types
 - Arrays (1D & 2D)
